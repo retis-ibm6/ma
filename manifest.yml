@@ -1,7 +1,7 @@
 applications:
 # Change ? in hostname below to a number
 # WARNING: Only hyphen are supported in hostname. Don't add any dot.
-- host: bpshparis-ma
+- host:yannavok-modis-ma
   disk: 256M
   name: app0
   path: ./WebContent
